@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Replace YOUR-USERNAME with the GitHub account that hosts this site.
-Sitemap: https://YOUR-USERNAME.github.io/sitemap.xml
+Sitemap: https://zyvelle44.github.io/sitemap.xml
